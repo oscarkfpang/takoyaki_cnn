@@ -9,7 +9,7 @@ The jupyter notebooks in this repo describe the pipeline of designing a **Convol
 + redesigning / fine-tuning the model architecture / hyper-parameters
 + evaluate the new design again for acceptance
 
-The notebooks are written with markdown cells and comments in the code for self-explanatory purpose.
+The notebooks are written with markdown cells and comments in the code and is self-explanatory.
 
 ## Pre-requisite
 The code was implemented in Ubuntu 18.04 environment. Please have the following installed in order to run the code:
@@ -17,7 +17,7 @@ The code was implemented in Ubuntu 18.04 environment. Please have the following 
 - python3 or above
 - Keras
 - Tensorflow >= 1.7
-- Cuda 9
+- Cuda 9 (for using GPU training)
 - opencv 3.3 or above with contrib
 
 ## Installation
